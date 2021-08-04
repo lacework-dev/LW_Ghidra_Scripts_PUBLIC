@@ -5,4 +5,4 @@ Ghidra scripts developed by Lacework Labs to aid in research and malware analysi
 * [PwnKatien](./ghidra_scripts/PwnKatien.java): A script to extract configuration information from Katien,
   Tsunami, and Ziggystratux IRC bots.
 
-* [PwnRig](./ghidra_scripts/PwnRig.java): A script to extract configuration information from "PwnRig" Cryptocurrency miners.
+* [PwnRig](./ghidra_scripts/PwnRigID.java): A script to extract configuration information from "PwnRig" Cryptocurrency miners.
