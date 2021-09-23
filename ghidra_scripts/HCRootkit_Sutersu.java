@@ -1,6 +1,6 @@
 //
 //@author Lacework Labs
-//@category IoC Extraction
+//@category Analysis
 //@keybinding
 //@menupath
 //@toolbar
