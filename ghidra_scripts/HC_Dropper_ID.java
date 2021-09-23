@@ -1,6 +1,6 @@
 //
 //@author Lacework Labs
-//@category 
+//@category Analysis
 //@keybinding
 //@menupath
 //@toolbar
